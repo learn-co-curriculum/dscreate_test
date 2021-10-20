@@ -6,14 +6,5 @@
 
 
 ```python
-#__SOLUTION__
-print('solution')
-```
-
-    solution
-
-
-
-```python
 
 ```
